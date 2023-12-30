@@ -2,7 +2,7 @@
 
 Pytorch implementation for ToThePoint results in the paper [ToThePoint: Efficient Contrastive Learning of 3D Point Clouds via Recycling](https://openaccess.thecvf.com//content/CVPR2023/html/Li_ToThePoint_Efficient_Contrastive_Learning_of_3D_Point_Clouds_via_Recycling_CVPR_2023_paper.html) by Xinglin Li, Jiajing Chen, Jinhui Ouyang, Hanhui Deng, Senem Velipasalar, Di Wu in Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023.
 
-<img src="framework.png" width="900px" height="350px"/>
+<img src="./fig/framework.png#pic_center" width="900px" height="350px"/>
 
 
 ### Dependencies

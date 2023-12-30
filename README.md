@@ -29,7 +29,7 @@ In addition, please add the project folder to PYTHONPATH and `pip install` the f
 
 - Few-shot 3D object classification
 <p align="center">
-<img src='./fig/few_shot.png#pic_center' width="800px">
+<img src='./fig/few_shot.png#pic_center' width="500px">
 </p>
 
 - 3D object part segmentation:

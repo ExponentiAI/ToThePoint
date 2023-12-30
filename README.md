@@ -16,7 +16,7 @@ In addition, please add the project folder to PYTHONPATH and `pip install` the f
 - `***`
 
 
-**Evaluation Results**
+### Evaluation Results
 
  - 3D object classification
 <p align="center">
@@ -63,3 +63,7 @@ or
 ```
 Xinglin Li, Jiajing Chen, Jinhui Ouyang, Hanhui Deng, Senem Velipasalar, Di Wu; Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023, pp. 21781-21790.
 ```
+
+**Reference**
+
+- [CrossPoint: Self-Supervised Cross-Modal Contrastive Learning for 3D Point Cloud Understanding (CVPR'22)](https://openaccess.thecvf.com/content/CVPR2022/papers/Afham_CrossPoint_Self-Supervised_Cross-Modal_Contrastive_Learning_for_3D_Point_Cloud_Understanding_CVPR_2022_paper.pdf) [[code]](https://github.com/MohamedAfham/CrossPoint)
